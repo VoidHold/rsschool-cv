@@ -1,1 +1,1 @@
-# -rsschool-cv
+https://voidhold.github.io/rsschool-cv/cv
